@@ -1,0 +1,15 @@
+C:\GeekBrains\C#1\L2t0\bin\Debug\net6.0\L2t0.exe
+C:\GeekBrains\C#1\L2t0\bin\Debug\net6.0\L2t0.deps.json
+C:\GeekBrains\C#1\L2t0\bin\Debug\net6.0\L2t0.runtimeconfig.json
+C:\GeekBrains\C#1\L2t0\bin\Debug\net6.0\L2t0.dll
+C:\GeekBrains\C#1\L2t0\bin\Debug\net6.0\L2t0.pdb
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.csproj.AssemblyReference.cache
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.AssemblyInfoInputs.cache
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.AssemblyInfo.cs
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.dll
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\refint\L2t0.dll
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.pdb
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\L2t0.genruntimeconfig.cache
+C:\GeekBrains\C#1\L2t0\obj\Debug\net6.0\ref\L2t0.dll
